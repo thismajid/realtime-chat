@@ -1,5 +1,4 @@
 const moment = require("moment-jalaali");
-moment.locale("fa", fa);
 moment.loadPersian({ usePersianDigits: true, dialect: "persian-modern" });
 
 function formatMessage(username, text) {
