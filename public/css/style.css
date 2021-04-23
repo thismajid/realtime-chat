@@ -197,4 +197,10 @@ a {
 	.chat-sidebar {
 		display: none;
 	}
+
+	.btn{
+		padding: -5px 5px; 
+	}
+
 }
+
