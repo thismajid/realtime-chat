@@ -5,7 +5,9 @@ function formatMessage(username, text) {
   return {
     username,
     text,
-    time: moment.locale("fa", fa).format("h:mm a"),
+    time: moment()
+      .utcOffset(+270)
+      .format("h:mm a"),
   };
 }
 
