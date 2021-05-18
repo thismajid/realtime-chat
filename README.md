@@ -7,6 +7,6 @@
 3. Open Your Browser
 4. Search URL http://localhost:8080
 
-### Online demo
+### Online Demo
 
 http://chat.makhor.ir
