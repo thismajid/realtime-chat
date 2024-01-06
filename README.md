@@ -1,17 +1,24 @@
-# Realtime-Chat with Socket.io
+# Realtime Chat Application
 
-### For Using This Application Run These Commands
+Realtime Chat is an interactive and user-friendly chat application that enables users to communicate in real time. Leveraging the power of WebSockets, it provides instant messaging capabilities for a seamless chatting experience.
+
+## Features
+
+- Real-time bi-directional communication between server and clients.
+- User authentication and secure chat rooms.
+- Support for one-on-one messaging as well as group chats.
+
+## Tech Stack
+
+- **Framework**: Express.js for creating a scalable server-side application.
+
+### Installation
+
+Clone the repository to your local machine using the following command:
 
 ```bash
-1. npm install
-2. npm start
-3. Open Your Browser
-4. Search URL http://localhost:8080
+git clone https://github.com/thismajid/realtime-chat
+cd realtime-chat
+npm install
+npm start
 ```
-
-### Online Demo
-
-```bash
-http://chat.makhor.ir
-```
-
