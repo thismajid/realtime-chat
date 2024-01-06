@@ -11,7 +11,8 @@ Realtime Chat is an interactive and user-friendly chat application that enables 
 ## Tech Stack
 
 - **Framework**: Express.js for creating a scalable server-side application.
-
+- **Real-time Communication**: WebSocket implementation (socket.io).
+- 
 ### Installation
 
 Clone the repository to your local machine using the following command:
